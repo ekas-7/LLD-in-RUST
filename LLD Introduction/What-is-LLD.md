@@ -1,4 +1,4 @@
-Of course. Here is a rewritten version of the text on Low-Level Design.
+# What is LLD ?
 
 Low-Level Design (LLD) is the process of creating a detailed blueprint for the internal workings of your software. If High-Level Design (HLD) is the architectural sketch of a house, LLD is the detailed plan for each room, specifying where the electrical outlets go, what materials to use, and how the plumbing connects. It translates the "what" (from HLD) into the "how" of the actual implementation.
 
